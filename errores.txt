@@ -1,0 +1,20 @@
+linea 1: el html incompleto
+linea 4: no esta cerrado el meta
+linea 6: el title esta mal cerrado 
+linea 15: el img no esta cerrado
+linea 19: el li no esta cerrado
+linea 28: el h1 esta debe cerrar con un  h1 y no h2
+linea 29: el parrafo no esta cerrado
+linea 35: esta cerrado en orden incorrecto el p y b
+linea 45: el option no esta cerrado
+linea 48: el nav fue cerrado pero no abierto
+linea 70: el post no esta entre comillas
+linea 84: el novedades debe estar entre comillas
+linea 91: el hr esta mal 
+linea 97: el p no esta cerrado
+linea 2: el lang esta mal escrito
+linea 19: no estaba entre comillas el index
+linea 76: type es tipo text no email
+linea 5: al meta para cerrarse le hace falta un /
+linea 100: no estaba cerrado el body
+linea :
